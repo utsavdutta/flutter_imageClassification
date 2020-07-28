@@ -1,4 +1,4 @@
-# imageClassification using tflite and flutter
+# ImageClassification using tflite and flutter
 
 A new Flutter application for on device Image Classification using tensorflow-lite . 
 
